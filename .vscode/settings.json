@@ -1,0 +1,6 @@
+{
+    "html.format.indentInnerHtml": true,
+    "markdown.preview.breaks": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "auto-close-tag.SublimeText3Mode": true
+}
